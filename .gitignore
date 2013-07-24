@@ -10,3 +10,4 @@ target
 credentials.json
 
 javadoc
+local.properties
